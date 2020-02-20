@@ -1,0 +1,50 @@
+<AnimaShooterProject>
+    <Version bugfx="12" major="3" devel="5" mod="Capture" minor="8"/>
+    <FrameSettings previewImageMirror="0" refImageScale="100" timelineRangeStart="0" lightboxMode="0" crop="0" techInfoOn="0" frameBorderOpacity="1" gridOpacity="1" safeAreaOpacity="1" stackDepth="4" rotate="0" safeAreaOn="1" guidesOn="1" sightOpacity="1" sequenceExportSizeW="1920" smoothRender="0" thirdsGridOpacity="1" marginsOn="0" marginsOpacity="0.5" cropAreaOn="1" preserveHighlightsValue="0" wideCross="0" cropRAW="1" resize="1" applyDigitalExposure="0" applyCameraWB="0" pendulumOn="0" frameNamePrefix="frame" guidesOpacity="1" ramPreviewLoop="1" gridOn="0" preserveHighlights="0" ruleOfThirdsGridOn="0" scalePreviewImage="1" gridHStep="300" useFrameNameMask="0" crossOn="0" digitalExposure="10" frameWidth="5184" timelineRangeEnd="40" pathColor="#00aaff" frameHeight="3456" gridVStep="300" flipFlopDuration="600" videoExportPolicy="0" startIndex="0" ramPreviewHeight="231" previewImageShiftX="0" previewImageShiftY="0" ramPreviewWidth="494" exportSizeW="1920" lightboxColor="#00ff00" grayscale="0"/>
+    <CanonCameraSettings Tv="036.1/125" ISO="005.3200" WBtemp="2800" Av="000.5.6" ExpoComp="015.0" ICCpath="" PictureStyle="" WB="WhitePaper"/>
+    <Path pathData="PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjEzNC4wNTZtbSIgaGVpZ2h0PSI4OS42MDU2bW0iCiB2aWV3Qm94PSIwIDAgMzgwIDI1NCIKIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiICB2ZXJzaW9uPSIxLjIiIGJhc2VQcm9maWxlPSJ0aW55Ij4KPGRlZnM+CjwvZGVmcz4KPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIHN0cm9rZS1saW5lam9pbj0iYmV2ZWwiID4KCjxwYXRoIHZlY3Rvci1lZmZlY3Q9Im5vbi1zY2FsaW5nLXN0cm9rZSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMjA4LjIxOCwxNjEuNDk3Ii8+CjwvZz4KPC9zdmc+Cg=="/>
+    <RenderVideoSettings exportFramesInRangeOnly="1" translitOn="0" timecode="0" fps="6" exportPicFormat="0" exportVideoFileName="videotest" playerRangeStart="0" playerRangeEnd="0" exportPath="" crop="0"/>
+    <ProjectInfo movieLayer="" authorSurname="" movieTitle="" authorMiddleName="" authorName="" movieScene="" movieDirector=""/>
+    <Filters enabled="0" saturation="50" denoise="0" contrast="0"/>
+    <Frame mirrored="0" capFull="frame_norm_000000_200129140130.jpg" refFull="" hidden="0" capTumb="frame_mini_000000_200129140130.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000001_200129140134.jpg" refFull="" hidden="0" capTumb="frame_mini_000001_200129140134.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000002_200129140138.jpg" refFull="" hidden="0" capTumb="frame_mini_000002_200129140138.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000003_200129140141.jpg" refFull="" hidden="0" capTumb="frame_mini_000003_200129140141.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000004_200129140144.jpg" refFull="" hidden="0" capTumb="frame_mini_000004_200129140144.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000005_200129140147.jpg" refFull="" hidden="0" capTumb="frame_mini_000005_200129140147.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000006_200129140150.jpg" refFull="" hidden="0" capTumb="frame_mini_000006_200129140150.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000007_200129140154.jpg" refFull="" hidden="0" capTumb="frame_mini_000007_200129140154.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000008_200129140203.jpg" refFull="" hidden="0" capTumb="frame_mini_000008_200129140203.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000009_200129140207.jpg" refFull="" hidden="0" capTumb="frame_mini_000009_200129140207.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000010_200129140212.jpg" refFull="" hidden="0" capTumb="frame_mini_000010_200129140212.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000011_200129140216.jpg" refFull="" hidden="0" capTumb="frame_mini_000011_200129140216.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000012_200129140220.jpg" refFull="" hidden="0" capTumb="frame_mini_000012_200129140220.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000013_200129140223.jpg" refFull="" hidden="0" capTumb="frame_mini_000013_200129140223.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000014_200129140228.jpg" refFull="" hidden="0" capTumb="frame_mini_000014_200129140228.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000015_200129140233.jpg" refFull="" hidden="0" capTumb="frame_mini_000015_200129140233.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000016_200129140241.jpg" refFull="" hidden="0" capTumb="frame_mini_000016_200129140241.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000017_200129140246.jpg" refFull="" hidden="0" capTumb="frame_mini_000017_200129140246.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000018_200129140249.jpg" refFull="" hidden="0" capTumb="frame_mini_000018_200129140249.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000019_200129140253.jpg" refFull="" hidden="0" capTumb="frame_mini_000019_200129140253.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000038_200129140504.jpg" refFull="" hidden="0" capTumb="frame_mini_000038_200129140504.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000039_200129140510.jpg" refFull="" hidden="0" capTumb="frame_mini_000039_200129140510.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000040_200129140515.jpg" refFull="" hidden="0" capTumb="frame_mini_000040_200129140515.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000020_200129140256.jpg" refFull="" hidden="0" capTumb="frame_mini_000020_200129140256.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000021_200129140300.jpg" refFull="" hidden="0" capTumb="frame_mini_000021_200129140300.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000022_200129140304.jpg" refFull="" hidden="0" capTumb="frame_mini_000022_200129140304.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000023_200129140308.jpg" refFull="" hidden="0" capTumb="frame_mini_000023_200129140308.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000024_200129140312.jpg" refFull="" hidden="0" capTumb="frame_mini_000024_200129140312.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000025_200129140316.jpg" refFull="" hidden="0" capTumb="frame_mini_000025_200129140316.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000026_200129140321.jpg" refFull="" hidden="0" capTumb="frame_mini_000026_200129140321.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000027_200129140324.jpg" refFull="" hidden="0" capTumb="frame_mini_000027_200129140324.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000028_200129140327.jpg" refFull="" hidden="0" capTumb="frame_mini_000028_200129140327.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000029_200129140330.jpg" refFull="" hidden="0" capTumb="frame_mini_000029_200129140330.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000030_200129140333.jpg" refFull="" hidden="0" capTumb="frame_mini_000030_200129140333.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000031_200129140336.jpg" refFull="" hidden="0" capTumb="frame_mini_000031_200129140336.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000032_200129140339.jpg" refFull="" hidden="0" capTumb="frame_mini_000032_200129140339.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000033_200129140342.jpg" refFull="" hidden="0" capTumb="frame_mini_000033_200129140342.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000034_200129140345.jpg" refFull="" hidden="0" capTumb="frame_mini_000034_200129140345.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000035_200129140348.jpg" refFull="" hidden="0" capTumb="frame_mini_000035_200129140348.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000036_200129140351.jpg" refFull="" hidden="0" capTumb="frame_mini_000036_200129140351.jpg" static="-1" refTumb=""/>
+    <Frame mirrored="0" capFull="frame_norm_000037_200129140354.jpg" refFull="" hidden="0" capTumb="frame_mini_000037_200129140354.jpg" static="-1" refTumb=""/>
+</AnimaShooterProject>
